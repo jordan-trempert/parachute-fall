@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Upheaval';
+    font-family: Upheaval;
     src: url('UpheavalTT-BRK-.woff2') format('woff2'),
         url('UpheavalTT-BRK-.woff') format('woff');
     font-weight: normal;
@@ -7,3 +7,6 @@
     font-display: swap;
 }
 
+* {
+ font-family: Upheaval;
+}
